@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.center{
+    font-size: 16px;
+    color: white;
+    font-display: center;
+    position: center;
+    background-color: #000536;
+    padding: 25px 0 30px 25px;
+    border-bottom: 1px solid #370e3f;
+  
+
+}
+
+button{
+    font-size:16px;
+    border-color: #6666FF;
+    text-align: center;
+    background-color: #000536;
+    color: white;
+    padding: 7px 10px;
+    cursor: pointer;
+    
+
+}
+
+button1{
+    font-size:16px;
+    text-align: center;
+    color: white;
+    background-color: #6666FF;
+    padding: 7px 10px;
+    cursor: pointer;
+    
+}
+
+.middle{
+
+    text-align: center;
+    padding: 100px 100px 45px 30px;
+    position: relative;
+    display: block;
+
+}
+
+p{
+    text-align: center;
+    position: relative;
+    padding-left: 2cm;
+}
+
+button2{
+    font-size: 16px;
+    background-color: #6666FF;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    margin-bottom: 28px;
+    margin-top: 28px;
+    padding: 12px 28px;
+}
+
+.middle form{
+    font: size 20px;
+    padding-left: 1.5cm;
+}
+
+.container{
+   
+
+    opacity: 0.3;
+
+}
+
+.left{
+    position: absolute;
+    padding-left: 5cm;
+    padding-top: 3cm;
+}
